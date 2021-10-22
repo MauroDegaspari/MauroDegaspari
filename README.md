@@ -1,7 +1,10 @@
 ### Olá, eu sou o Mauro Degaspari 👏
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-degaspari-682657159/)
 
-![MauroDegaspari GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroDegaspari&show_icons=true&theme=dracula)
+![Mauro Degaspari GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroDegaspari&show_icons=true&theme=dark)
+
+
+
 
 ## Tecnologias que eu uso no meu dia-a-dia
 <div style="display: inline_block"><br/>
