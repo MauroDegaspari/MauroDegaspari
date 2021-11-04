@@ -1,7 +1,7 @@
 ### Olá, eu sou o Mauro Degaspari 👏
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-degaspari-682657159/)
 
-![Mauro Degaspari GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroDegaspari&show_icons=true&theme=dark)<img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/espaco.png"  width = "58" height = "195"><img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/avatar_1636027679297.png"  width = "200" height = "195">
+![Mauro Degaspari GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroDegaspari&show_icons=true&theme=dark)<img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/espaco.png"  width = "80" height = "195"><img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/avatar_1636027679297.png"  width = "200" height = "195">
 
 
 
