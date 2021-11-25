@@ -1,4 +1,5 @@
-### Olá, eu sou o Mauro Degaspari 👏
+### Olá, eu sou o Mauro Degaspari<img align="center" alt="Andre-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-degaspari-682657159/)
 
 ![Mauro Degaspari GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroDegaspari&show_icons=true&theme=dark)<img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/espaco.png"  width = "93" height = "195"><img src ="https://github.com/MauroDegaspari/Graficos/blob/master/img-readme/avatar_1636027679297.png"  width = "200" height = "195">
